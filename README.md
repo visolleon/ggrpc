@@ -106,3 +106,6 @@ if err != nil {
 // 监控配置文件，当配置文件发生变化后，程序自动更新
 PushServerGroup.GoWatchFile()
 ```
+
+## LICENSE
+[MIT](LICENSE)
